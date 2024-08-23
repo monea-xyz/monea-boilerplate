@@ -1,2 +1,3 @@
-# monea-boilerplate
-Boilerplate repo for Monea projects
+# Starter Kit
+
+Bare-bones starter for Monea projects

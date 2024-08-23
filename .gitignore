@@ -1,0 +1,14 @@
+# monea
+.monea/
+
+# secrets
+.env
+
+# rust
+/target
+Cargo.lock
+out/
+cache/
+
+# system
+.DS_Store
